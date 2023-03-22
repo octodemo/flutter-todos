@@ -28,7 +28,7 @@ dev_dependencies:
 
 
   #网络请求
-  dio: ^4.0.4
+  dio: ">=4.0.4 <6.0.0"
   #本地存储
   shared_preferences: ^2.0.9
   #状态管理
